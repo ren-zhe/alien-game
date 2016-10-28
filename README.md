@@ -1,2 +1,2 @@
 # alien-game
-execise
+exercise
